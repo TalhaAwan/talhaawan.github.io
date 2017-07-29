@@ -1,0 +1,11 @@
+.profile-img{
+	height: 150px;
+	border-radius: 10px;
+}
+
+#portfolio{
+	padding: 0;
+}
+.portfolio-sections{
+	padding: 100px 0;
+}
