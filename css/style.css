@@ -6,6 +6,11 @@
 #portfolio{
 	padding: 0;
 }
+
+.portfolio-item{
+	min-height: 150px;
+}
 .portfolio-sections{
 	padding: 100px 0;
 }
+
