@@ -18,6 +18,9 @@
 	margin-bottom: 30px;
 }
 
+.portfolio-sections .description{
+	font-size: 1.5em;
+}
 #portfolio .portfolio-item .tech-link{
 	margin-bottom: 40px;
     /*margin-top: 40px;*/
