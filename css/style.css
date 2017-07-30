@@ -22,3 +22,8 @@
 	margin-bottom: 40px;
     /*margin-top: 40px;*/
 }
+
+.intro-text .page-scroll a{
+	font-size: 20px;
+	color: #fff;
+}
