@@ -7,6 +7,10 @@
 	padding: 0;
 }
 
+header{
+	border-bottom: 2px dashed #2C3E50
+}
+
 .portfolio-item{
 	min-height: 150px;
 }
