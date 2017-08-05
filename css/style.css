@@ -34,3 +34,8 @@ header{
 	font-size: 20px;
 	color: #fff;
 }
+
+
+.about, a{
+	color: #fff !important;
+}
