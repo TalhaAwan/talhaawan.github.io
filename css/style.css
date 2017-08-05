@@ -36,6 +36,11 @@ header{
 }
 
 
-.about, a{
-	color: #fff !important;
+#about a{
+	color: #2C3E50 !important;
+}
+
+
+#about p{
+	margin-bottom: 25px;
 }
