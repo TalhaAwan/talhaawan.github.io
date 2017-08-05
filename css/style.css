@@ -44,3 +44,7 @@ header{
 #about p{
 	margin-bottom: 25px;
 }
+
+.portfolio-modal .description{
+	font-size: 1.5em !important;
+}
